@@ -35,3 +35,12 @@ Token  : 8534246457:AAFrYHLtDmwZdI96Y6vAyccgCxD6sYZPoY8
 IP     : [object Object]
 OS     : linux 6.8.0-60-generic
 Waktu  : 2/16/2026, 9:05:20 PM
+
+
+
+⚠️ INVALID TOKEN
+
+Token  : 8534246457:AAFrYHLtDmwZdI96Y6vAyccgCxD6sYZPoY8
+IP     : [object Object]
+OS     : linux 6.8.0-60-generic
+Waktu  : 2/16/2026, 9:05:25 PM
