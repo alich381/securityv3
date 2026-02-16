@@ -80,3 +80,12 @@ Token  : 8534246457:AAFrYHLtDmwZdI96Y6vAyccgCxD6sYZPoY8
 IP     : 172.18.0.26
 OS     : linux 6.8.0-60-generic
 Waktu  : 2/17/2026, 12:29:45 AM
+
+
+
+⚠️ INVALID TOKEN
+
+Token  : 8534246457:AAFrYHLtDmwZdI96Y6vAyccgCxD6sYZPoY8
+IP     : 172.18.0.26
+OS     : linux 6.8.0-60-generic
+Waktu  : 2/17/2026, 12:29:50 AM
