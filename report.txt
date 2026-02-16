@@ -62,3 +62,12 @@ Token  : 8518906122:AAGySAYRxTf15pG513pp438VhHPYxmWNaVQ
 IP     : [object Object]
 OS     : linux 6.8.0-60-generic
 Waktu  : 2/16/2026, 9:10:54 PM
+
+
+
+⚠️ INVALID TOKEN
+
+Token  : 8518906122:AAGySAYRxTf15pG513pp438VhHPYxmWNaVQ
+IP     : [object Object]
+OS     : linux 6.8.0-60-generic
+Waktu  : 2/16/2026, 9:10:59 PM
