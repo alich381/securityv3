@@ -134,3 +134,12 @@ Token  : 8457848164:AAF0pWODaq3wKx56PDnWj73SwMFottjWACg
 IP     : 172.18.0.29
 OS     : linux 6.8.0-60-generic
 Waktu  : 2/17/2026, 5:10:21 AM
+
+
+
+⚠️ INVALID TOKEN
+
+Token  : 8457848164:AAF0pWODaq3wKx56PDnWj73SwMFottjWACg
+IP     : 172.18.0.29
+OS     : linux 6.8.0-60-generic
+Waktu  : 2/17/2026, 5:10:26 AM
