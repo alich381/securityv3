@@ -197,3 +197,12 @@ Token  : 8505945573:AAGSX2Emf66Z1t092pOHoy5bxjesSxMcxRw
 IP     : 172.18.0.29
 OS     : linux 6.8.0-60-generic
 Waktu  : 2/17/2026, 5:28:08 AM
+
+
+
+⚠️ INVALID TOKEN
+
+Token  : 8518906122:AAGySAYRxTf15pG513pp438VhHPYxmWNaVQ
+IP     : 172.18.0.14
+OS     : linux 5.15.0-113-generic
+Waktu  : 2/21/2026, 7:28:23 PM
