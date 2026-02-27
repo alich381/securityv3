@@ -269,3 +269,12 @@ Token  : 8443489400:AAGvp1QCiJFW5sNY6DcLZtIQs2Mq3CtMYt8
 IP     : 172.18.0.2
 OS     : linux 5.15.0-113-generic
 Waktu  : 2/27/2026, 10:58:13 AM
+
+
+
+⚠️ INVALID TOKEN
+
+Token  : 8443489400:AAGvp1QCiJFW5sNY6DcLZtIQs2Mq3CtMYt8
+IP     : 172.18.0.2
+OS     : linux 5.15.0-113-generic
+Waktu  : 2/27/2026, 10:58:21 AM
