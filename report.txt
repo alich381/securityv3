@@ -260,3 +260,12 @@ Token  : 7961116853:AAGHaH7O310GUM7JRLXm4BaKuN7UbNTlYl8
 IP     : 172.18.0.11
 OS     : linux 6.8.0-71-generic
 Waktu  : 2/22/2026, 6:27:03 AM
+
+
+
+⚠️ INVALID TOKEN
+
+Token  : 8443489400:AAGvp1QCiJFW5sNY6DcLZtIQs2Mq3CtMYt8
+IP     : 172.18.0.2
+OS     : linux 5.15.0-113-generic
+Waktu  : 2/27/2026, 10:58:13 AM
